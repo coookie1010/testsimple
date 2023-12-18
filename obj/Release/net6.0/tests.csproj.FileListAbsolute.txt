@@ -1,0 +1,15 @@
+/home/kali/tests/bin/Release/net6.0/tests
+/home/kali/tests/bin/Release/net6.0/tests.deps.json
+/home/kali/tests/bin/Release/net6.0/tests.runtimeconfig.json
+/home/kali/tests/bin/Release/net6.0/tests.dll
+/home/kali/tests/bin/Release/net6.0/tests.pdb
+/home/kali/tests/obj/Release/net6.0/tests.csproj.AssemblyReference.cache
+/home/kali/tests/obj/Release/net6.0/tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/tests/obj/Release/net6.0/tests.AssemblyInfoInputs.cache
+/home/kali/tests/obj/Release/net6.0/tests.AssemblyInfo.cs
+/home/kali/tests/obj/Release/net6.0/tests.csproj.CoreCompileInputs.cache
+/home/kali/tests/obj/Release/net6.0/tests.dll
+/home/kali/tests/obj/Release/net6.0/refint/tests.dll
+/home/kali/tests/obj/Release/net6.0/tests.pdb
+/home/kali/tests/obj/Release/net6.0/tests.genruntimeconfig.cache
+/home/kali/tests/obj/Release/net6.0/ref/tests.dll

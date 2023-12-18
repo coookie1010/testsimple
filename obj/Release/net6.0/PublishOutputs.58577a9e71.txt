@@ -1,0 +1,5 @@
+/home/kali/tests/out/tests
+/home/kali/tests/out/tests.dll
+/home/kali/tests/out/tests.deps.json
+/home/kali/tests/out/tests.runtimeconfig.json
+/home/kali/tests/out/tests.pdb
